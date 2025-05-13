@@ -1,21 +1,23 @@
 # Portfolio
 Proyecto de consultas SQL para Rockbuster Stealth Data Analytics
 
-# Instacart Basket Analysis – Achievement 4
+# Rockbuster Stealth Analysis
 
 ## Project Overview
 
-This project is part of my Data Analysis Bootcamp (Achievement 4) and focuses on analyzing consumer behavior in online grocery shopping using the **Instacart** dataset. The goal is to clean, explore, and analyze large-scale transactional data to understand purchasing patterns and deliver insights that could help the business make better marketing and operational decisions.
+*Rockbuster Stealth*, a former movie rental giant, aims to launch a streaming service to compete with platforms like Netflix and Amazon Prime. To support this strategic move, the company needs a comprehensive analysis of its current customer behavior, rental trends, and store performance.
+
+This project involves cleaning, analyzing, and visualizing company data to provide actionable insights and data-driven recommendations to stakeholders
 
 The analysis was conducted using Python and includes multiple data cleaning steps, feature engineering, and exploratory data analysis.
 
 ---
 ## Key Questions Explored
 
-- Which products are the most popular among users?
-- What is the frequency of repeat purchases?
-- When do customers tend to shop the most?
-- Are there differences in customer behavior based on order frequency or department?
+- Who are Rockbuster’s top customers?
+- Which films are most popular among customers?
+- How does film rental frequency vary over time?
+- What types of films should Rockbuster prioritize for streaming?
 
 ---
 Tools Used
